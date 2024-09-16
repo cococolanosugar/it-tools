@@ -17,5 +17,6 @@ module.exports = {
         message: 'Please use local useCopy from src/composable/copy.ts instead of useClipboard.',
       }],
     }],
+    'n/prefer-global/process': 'warn',
   },
 };
